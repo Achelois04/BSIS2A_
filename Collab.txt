@@ -1,8 +1,4 @@
 Hello World
 Hi par
-<<<<<<< HEAD
-I Added a line as a owner.
-
-=======
+I Added a line as a owner
 I added a line me as the collaborator. HEHEHE
->>>>>>> b56f0511651e5887a81262eb99ec23abfd232b59
